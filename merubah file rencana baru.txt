@@ -1,3 +1,5 @@
 laravel
+vscode
+react
 javascript
 mysql
